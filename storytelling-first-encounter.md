@@ -20,7 +20,7 @@ visceral introduction that sets the tone for their ongoing journey.
 Your players’ stories begin with a dream: floating down a calm river. The
 sensation is soothing, almost hypnotic. Then, the dream fades into reality as
 they wake up—naked, hairless, and disoriented—on the muddy banks of an
-unfamiliar river. The air carries the scent of the valley itself, mingled with
+unfamiliar river. The air carries the scent of the region itself, mingled with
 the ever-present tang of water from the river. In the Eternal Savannah, the air
 might be heavy with the sweet, grassy aroma of golden plains, touched by the
 warmth of the sun. In the Bloodsong Crucible, the air could be sharp with the
@@ -41,12 +41,12 @@ Each player’s first encounter should highlight:
 
 ---
 
-# Demonstrating Mortality: Crossing into a Second Valley
+# Demonstrating Mortality: Crossing into a Second Region
 
 One of the most critical lessons for new players is the transient nature of life
-within a single valley. The River of Souls is a realm where death is not the end
+within a single region. The River of Souls is a realm where death is not the end
 but a portal to the unknown. To instill this truth, the opening session should
-lead players into at least two valleys, ensuring they experience both respawning
+lead players into at least two regions, ensuring they experience both respawning
 mechanics and the challenges of adaptation.
 
 #### The First Death
@@ -60,6 +60,6 @@ resolve. This could take the form of:
   to cultural misunderstandings.
 
 When they inevitably fall, players are introduced to the concept of
-**riverspawning**, awakening in a new valley with no control over their
+**riverspawning**, awakening in a new region with no control over their
 destination. Their newfound disorientation reinforces the unpredictable nature
 of the River of Souls.

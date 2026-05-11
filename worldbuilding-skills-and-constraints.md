@@ -23,13 +23,15 @@ That skill emergence can be seen through two lens: the individual/generative len
 
 **Example of Skill Emergence:**
 
-Sven and Halla are Vikings in a rainy valley. The constant wet is wearing them down.
+Sven and Halla are Vikings in a rainy region. The constant wet is wearing them down.
 
 Sven solves it by shrugging off the storm. His skill crystallizes as **[Otter's Coat]** — water sluices off him as if his skin were oiled fur. Because he reached for the otter as his metaphor, the skill carries the otter's other gifts: he swims faster, tires less in water, and can hold his breath a little longer. Cost: a small pouch of otter-fur worn at the neck; lose it and the skill weakens until he traps another otter himself.
 
 Halla solves it by _embracing_ the rain instead. Her skill crystallizes as **[Stormkin]** — she's no longer dry, but unbothered, and the storm seems to know her. Because her metaphor is kinship with the storm-jötnar, the skill leaks past mere comfort: thunder doesn't startle her, lightning trends to strike a little farther from where she stands, and she can read incoming weather hours before others can. Cost: she leaves a bowl of mead out during every storm; she will not curse the weather, even other people's; and when she does shelter from a storm, the next one finds her harder.
 
-Both skills emerged from the same generative pressure — _the rain is making me miserable_ — but the individual approach (shrug it off vs. join it) and the cultural metaphor (otter vs. storm-jötnar) shape what each skill actually _does_. Cultural expression isn't decoration on top of fixed mechanics; the metaphor a person reaches for leaks into what the skill becomes. A Mexica facing the same misery might develop **[Tláloc's Mantle]** or **[Daughter of Chalchiuhtlicue]** — parallel solutions to the same problem, but genuinely different skills, shaped by their own metaphors.
+Winslow is a 19th-century English engineer caught in the same wet misery, a long way from Sven and Halla on a different stretch of river. His approach is Sven's: shrug off the storm. But his cultural metaphors point him toward material practicality and applied craft, not animal kinship. His skill crystallizes as **[A Practical Raincoat]** — a properly oiled and waxed garment that turns rain. Because his metaphor is the engineered object, the skill leaks into adjacent practical territory: the coat keeps not just Winslow dry but his pocket-watch, his papers, his pipe-tobacco; the wax repels mud-splash; cold rain bites less through good wool. He does not swim faster or hold his breath longer; the otter is not part of his world. Cost: the coat itself, which wears out and must be re-waxed each season, and which costs proper money to replace if lost.
+
+All three skills emerged from the same generative pressure — _the rain is making me miserable_ — but the individual approach (shrug it off vs. join it) and the cultural metaphor (otter vs. storm-jötnar vs. engineered object) shape what each skill actually _does_. Cultural expression isn't decoration on top of fixed mechanics; the metaphor a person reaches for leaks into what the skill becomes. Sven and Winslow share an approach but reach for different metaphors, and end up with skills that solve the core problem in different ways and bring different secondary gifts — Sven swims and holds his breath; Winslow's papers stay dry and his good wool keeps the chill out. A Mexica facing the same misery might develop **[Tláloc's Mantle]** or **[Daughter of Chalchiuhtlicue]** — parallel solutions to the same problem, but genuinely different skills, shaped by their own metaphors.
 
 ## **Skill Evolutions**
 
@@ -48,18 +50,21 @@ But the cost has scaled. To bind [Otter's Holt] to a structure, Sven must dig th
 
 ## Transmission of Skills
 
-Skills can be taught by adept teachers and learned by students who share a
-compatible worldview. However, individuals from significantly different cultures
-may lack the affinity to learn or wield certain skills. For instance:
+Skills can be taught by adept teachers and learned by students. The unit of transmission is the *culturally-expressed skill*, not an abstract principle.
 
-- A Christofascist’s Righteous Fury might seem incomprehensible to an atheist
-  cyberneticist.
+When Sven teaches Wilson [Otter's Coat], Wilson doesn't learn a generic rain-shedding skill — he learns *Otter's Coat* specifically, with all its Norse framing. For the teaching to work, Sven has to transmit enough of his cultural framework that Wilson can hold the otter metaphor in his own head: the relationship to otters, the meaning of the otter-fur pouch worn at the neck, the gestures and intentions that invoke the skill. Learning [Otter's Coat] makes Wilson, in this small way, a little Norse. He now thinks in otters whenever he reaches for that skill.
 
-- A cyberneticist’s Neural Overclock might be seen as alien or heretical to
-  mystical cultures.
+The greater the cultural distance, the more transmission overhead is required, and the harder the teaching becomes. Some examples:
 
-- A Viking’s Berserker Rage might not resonate with a Klingon’s disciplined
-  martial ethos.
+- A Christofascist's [Righteous Fury] might seem incomprehensible to an atheist cyberneticist — the metaphysical assumptions diverge too sharply.
+- A cyberneticist's [Neural Overclock] might be seen as alien or heretical by mystical cultures.
+- A Viking's [Berserker Rage] might not resonate with a Klingon's disciplined martial ethos.
+
+In extreme cases, the cultural transmission required is so great that the student would have to effectively convert before they could hold the skill at all.
+
+Some skills are easier to transmit than others. Material or artifact-bound skills (like [A Practical Raincoat], which lives partly in the coat itself) can sometimes be partly transmitted through the artifact, with less cultural absorption required. Internal skills (like Halla's [Stormkin], whose channel is to herself) require deeper cultural transmission, because the metaphor lives inside the bearer rather than in any external object.
+
+**Note on a separate scenario:** when a skill-holder *moves* into a foreign context but does not teach anyone, the skill remains theirs. They carry the culturally-expressed skill with them, and can invoke it wherever its pattern fits. Sven exiled to a Spartan polis can apply his Norse [Unity of the Folkmoot] to the Apella because the assembly exhibits folkmoot-like collective behavior. The cost-fulfillment may be harder in a foreign context — Sven without otters needs to find otters or improvise something analogous — but the skill itself is intact and operable.
 
 ---
 
@@ -75,8 +80,8 @@ different kinds of things, depending on the cultural expression.
 
 A materialist culture might express a skill as burning some sort of inner
 reserve, resulting in increased food and sleep requirements.  Or perhaps the
-cost is a long term loss of sanity.  Or maybe it is in the gradual loss of
-sanity, or maybe the collective belief in some humanist ideal.
+cost is a gradual loss of sanity, or the erosion of the collective belief in
+some humanist ideal.
 
 Alternatively, a religious culture might instead express their skills in the
 metaphors of their faith.  Saints, gods, mythical stories, religious metaphors
@@ -100,7 +105,7 @@ As skills evolve, the costs of their earlier effects diminish, while the newer
 effects are more and more expensive. A early [Ostman's Cleave] skill that makes
 a viking's strikes more fierce might evolve into [Tyrfing's Reaping] that
 decimates swathes of foes.  While [Ostman's Cleave] can be used with any old
-sword with little personal cost in endurance, [Tyrfing's R] cangn only be used
+sword with little personal cost in endurance, [Tyrfing's Reaping] can only be used
 with a sword of great craftsmanship and might weaken its wielder after the
 skill's use.
 
@@ -109,20 +114,20 @@ skill's use.
 Within the Riverworld there are two main fundamental constraints:
 
 1. **River-Based Travel:**
-   - Individuals can only travel between valleys along rivers. Violations of
+   - Individuals can only travel between regions along rivers. Violations of
      this rule, such as creating stargates, or protecting yourself and others
-     from the cataracts that connect the valleys, are exceptionally challenging
+     from the cataracts that connect the regions, are exceptionally challenging
      and costly to employ and sustain.
 
 2. **Spawning Mechanics:**
    - Riverspawn and monolithspawn systems are immutable. Skills that destroy,
      modify, or lighten these constraints are major world-shaping events and are
-     can have valley-wide catastrophic effects.
+     can have region-wide catastrophic effects.
 
 ## Challenging Constraints
 
 Any use of Skills to alter these constraints require larger and larger costs,
-far and above what the cost is to employ the Skill within the valley.  Those can
+far and above what the cost is to employ the Skill within the region.  Those can
 take the shape of things like:
 
 - Significant Energy or Focus
@@ -133,7 +138,7 @@ Take for example Bjorn.  He has the high-tier Skill, [Incarnation of Njord].  In
 general, the [Incarnation of Njord] allows Bjorn to calm or enrage any
 environmental water in an area the size of a large city, for a moderate cost.
 
-- anywhere within the valley, Bjorn can effortlessly control the waves around
+- anywhere within the region, Bjorn can effortlessly control the waves around
   him or the vessel he is on.  It is such a relatively limited effect to him
   that it is effortless.
 - &#x20;Bjorn has, with the aid of people with [Runemaster] as well the
@@ -153,9 +158,9 @@ environmental water in an area the size of a large city, for a moderate cost.
 
 # Cultural Expression of Skills
 
-Because valleys are seeded with individuals from a handful of distinct cultures,
-skills naturally develop coherently within those cultural frameworks. For
-example:
+The skills listed below are **emergent clusterings** — skills that have appeared and reappeared in these cultures because their members share metaphors and face shared problems. They are not abilities granted by cultural membership. Two members of the same culture, approaching different problems (or the same problem with different approaches), will develop different skills. Sven and Bjorn, both Vikings shrugging off the rain with otter-metaphors in mind, may both end up with [Otter's Coat] — not because they're Vikings, but because they share an approach and a metaphor. A third Viking who *embraces* the rain may develop [Stormkin] instead. The catalog reflects what these cultures *tend to produce*, not what each member *has*.
+
+That said, because regions are seeded with individuals from a handful of distinct cultures, skills do cluster coherently within those cultural frameworks. Members share language, ritual, and metaphor; they encounter similar problems through similar lenses; they reach for similar tools. Common skills emerge. The lists below name skills that have been seen often enough in these cultures to be recognizable. For example:
 
 - A 21st-century Christofascist might develop skills reflecting divine favor,
   such as _Holy Shield_ or _Judgment Strike_.

@@ -6,12 +6,17 @@ Let your user lead, critique and challenge and explore ideas with them.
 
 # World Background
 
-@river-of-souls-first-encounter.md
-@river-of-souls-monoliths.md
-@river-of-souls-origins-and-topology.md
-@river-of-souls-skills-and-constraints.md
-@river-of-souls-the-valleys-of-the-river-of-souls.md
-@river-of-souls-the-veils.md
+@worldbuilding-origins.md
+@worldbuilding-the-river.md
+@worldbuilding-individual-life-respawning-and-true-death.md
+@worldbuilding-monoliths.md
+@worldbuilding-skills-and-constraints.md
+@worldbuilding-seedings.md
+@worldbuilding-the-veils.md
+
+# Storytelling Guidance
+
+@storytelling-first-encounter.md
 
 # Story So Far
 
